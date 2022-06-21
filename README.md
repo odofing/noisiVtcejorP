@@ -1,7 +1,11 @@
 # noisiVtcejorP
 
 How To Run the Project
+
+
 Download the zipped folder from my repository
+
+
 Client folder
 run npm install to install all dependencies. Then run: npm start to start the frontend project. The project will run on port 3000
 
