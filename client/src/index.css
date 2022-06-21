@@ -1,0 +1,43 @@
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.input {
+  border-radius: 15px;
+}
+
+.bgLight {
+  background-color: rgb(235, 231, 229);
+}
+.bgColor {
+  background-color: blue;
+  width: 40%;
+  border-radius: 10px;
+}
+body {
+  margin: 0;
+  background-color: aliceblue;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.textarea {
+  height: 100px;
+}
+.button {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  width: 50%;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
